@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head> 
+        <!--config, importação de recursos-->
+        <!-- CSS pag HTML
+        Inline(na linha) prioritário 
+        Interno
+        Externo -->
+
+        <link rel="stylesheet" type="text/css" href="CSS/style.css" />
+        
+    </head>
+    <body> 
+        <header>  
+            <div class="Barra_Superior">    
+                <div class="container">      
+                    Horário de Funcionamento 09:00 - 18:00h
+                </div>
+            </div>
+
+        
+            <div class="container">
+                <img alt="Logo da empresa" title="Aqui é apresentação do logo da empresa" 
+                src="img/Logo.jpg" />
+                <nav>
+                     Página Inicial | Produtos | 
+                     <a title="Direciona ao fale conosco" href="FaleConosco.html">Fale Conosco </a> 
+                     <a class="btn_destaque" href="OndeEstamos.html">Onde Estamos</a>
+                </nav>
+                </div>
+
+                
+            </header>
+
+            <section class="sec01">
+                <div class="container">
+                </br>
+                    <p class="tittulo">
+                    Os Melhores Doces Artesanais
+                    </p>
+                    <p>Brigadeiros e Chocolates</p>
+            
+                    <a  href="OndeEstamos.html" class="btn_destaque"> Onde Estamos</a>
+                </div>
+                
+        </section>
+        <section class="sec02">
+            <div class="container">
+                <p>
+                    Trabalhamos com os melhores  <strong>Doces</strong>
+                </p>
+
+                <img alt="Logo da empresa" title="Aqui é apresentação do logo da empresa" 
+                src="img/lista.jpg" />
+            </div>
+        </section>
+        <section class="sec02">
+            <div class="container">
+                <p> E as melhores marcas</p>  
+
+                <img alt="Logo de marcas" src="img/marcas.png"/>
+            
+            </div>
+        </section>
+                
+        <section class="sec03">
+                    <div class="container">
+                        <div class="largura40">
+                        <p>
+                            Grande <br> 
+                            Variedade <br> 
+                            de Doces
+                        </p>
+
+                        <a href="OndeEstamos.html" class="btn_destaque">Venha Conferir</a>
+                
+                                                
+                        </div>
+                    </div>
+        </section>
+        
+        <br class="clearfix"/>
+
+
+        <footer>
+            <div class="container">
+                <div class="um_terco">
+                    <img class="logo" alt="Logo da empresa" title="Aqui é apresentação do logo da empresa" 
+                    src="img/Logo.jpg" />
+                    <p>Oferecemos os melhores doces para a sua festa.</p>
+                    <a href="#"><img alt="Link para facebook" src="img/facebook.jpg"/>
+                    </a><a href="#"><img alt="Link para instagram" src="img/insta.png"/>
+                    </a><a href="#"><img alt="Link para twitter" src="img/tt.png"/></a>
+                (links Insta, facebook, whats)
+                </div>
+                <div class="um_terco">
+                    Links
+
+                    Inicio
+                    Produtos
+                    <a title="Direciona ao fale conosco" href="FaleConosco.html">Fale Conosco </a>                    Onde Estamos
+                </div>
+                <div class="um_terco"> 
+                    Contato
+
+                    Endereço Rua São Nicolau
+                    Estância Velha - Canoas/RS
+
+                    Telefone: <a href="tel:51982128013"> 51 982128013</a>  
+                    E-mail: <a href="josiane.machado.alves@hotmail.com"> Josiane.machado.alves@hotmail.com </a>
+                </div>
+
+            </div>
+           
+           
+           <br class="clearfix"/>
+            <div class="direitos_reservados">
+                Todos os direitos reservados (@) 2015.
+                <a
+                    href="Termodeuso.html"> Termos de Uso </a>
+                |  <a 
+                href="Politicadeprivacidade.html"> 
+                 Política de Privacidade </a>
+            </div>
+        </footer>
+        </body>
+    
+
+    
+</html>
+</body>
+</html>
+
+
+
